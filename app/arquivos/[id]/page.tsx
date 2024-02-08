@@ -96,7 +96,7 @@ export default function ArquivosId()  {
                     </table>
                 </div>
                 <div className="flex justify-center">
-                    <a href={`/arquivos`}className="inline-flex w-1/2 flex justify-center px-4 py-2 text-white bg-purple-500 rounded-lg active hover:bg-purple-300" aria-current="page">
+                    <a href={`/arquivos`}className="w-1/2 flex justify-center px-4 py-2 text-white bg-purple-500 rounded-lg active hover:bg-purple-300" aria-current="page">
                         Voltar
                     </a>
                 </div>
