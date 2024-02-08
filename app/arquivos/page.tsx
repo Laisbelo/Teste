@@ -70,7 +70,7 @@ export default function Arquivos()  {
                 )}
                 </li>
                 <div className="flex justify-center mt-4">
-                <a href={`/`}className=" mt-4 inline-flex w-1/2 flex justify-center px-4 py-2 text-white bg-purple-500 rounded-lg active hover:bg-purple-400" aria-current="page">
+                <a href={`/`}className=" mt-4 w-1/2 flex justify-center px-4 py-2 text-white bg-purple-500 rounded-lg active hover:bg-purple-400" aria-current="page">
                     Voltar
                 </a>
             </div>
