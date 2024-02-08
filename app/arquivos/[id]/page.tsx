@@ -78,7 +78,7 @@ export default function ArquivosId()  {
                                 {item}
                             </th>
                             )}
-                            </tr>''
+                            </tr>
                         </thead>
                         <tbody>
                             {data.map((item)=>
